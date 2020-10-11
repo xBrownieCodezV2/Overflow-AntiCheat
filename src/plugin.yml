@@ -1,0 +1,4 @@
+name: OverFlow
+authors: [FlyCode, Elevated]
+version: 2.1
+main: us.overflow.anticheat.OverflowPlugin

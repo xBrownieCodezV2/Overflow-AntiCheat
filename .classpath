@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/jan/Documents/Libraries/Overflow/libs/AntiPhaseAddon.jar"/>
+	<classpathentry kind="lib" path="/Users/jan/Documents/Libraries/Overflow/libs/json-20190722.jar"/>
+	<classpathentry kind="lib" path="/Users/jan/Documents/Libraries/Overflow/libs/lombok.jar"/>
+	<classpathentry kind="lib" path="/Users/jan/Documents/Libraries/Overflow/libs/netty-buffer-4.1.47.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/jan/Documents/Libraries/Overflow/libs/org-apache-commons-codec.jar"/>
+	<classpathentry kind="lib" path="/Users/jan/Documents/Libraries/Overflow/libs/spigot 1.8 API.jar"/>
+	<classpathentry kind="lib" path="/Users/jan/Documents/Libraries/Overflow/libs/spigot-1.7.10-SNAPSHOT-b1657.jar"/>
+	<classpathentry kind="lib" path="/Users/jan/Documents/Libraries/Overflow/libs/spigot-1.8-R0.1-SNAPSHOT-latest.jar"/>
+	<classpathentry kind="lib" path="/Users/jan/Documents/Libraries/Overflow/libs/spigot-1.8.3-R0.1-SNAPSHOT-latest.jar"/>
+	<classpathentry kind="lib" path="/Users/jan/Documents/Libraries/Overflow/libs/spigot-1.8.4-R0.1-SNAPSHOT-latest.jar"/>
+	<classpathentry kind="lib" path="/Users/jan/Documents/Libraries/Overflow/libs/spigot-1.8.5-R0.1-SNAPSHOT-latest.jar"/>
+	<classpathentry kind="lib" path="/Users/jan/Documents/Libraries/Overflow/libs/spigot-1.8.6-R0.1-SNAPSHOT-latest.jar"/>
+	<classpathentry kind="lib" path="/Users/jan/Documents/Libraries/Overflow/libs/spigot-1.8.8-R0.1-SNAPSHOT-latest.jar"/>
+	<classpathentry kind="lib" path="/Users/jan/Documents/Libraries/Overflow/libs/spigot-1.9-R0.1-SNAPSHOT-latest.jar"/>
+	<classpathentry kind="lib" path="/Users/jan/Documents/Libraries/Overflow/libs/spigot-1.9.2-R0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/Users/jan/Documents/Libraries/Overflow/libs/spigot-1.9.4-R0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/Users/jan/Documents/Libraries/Overflow/libs/spigot-1.10-R0.1-SNAPSHOT-latest.jar"/>
+	<classpathentry kind="lib" path="/Users/jan/Documents/Libraries/Overflow/libs/spigot-1.11-R0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/Users/jan/Documents/Libraries/Overflow/libs/spigot-1.11.2-R0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/Users/jan/Documents/Libraries/Overflow/libs/spigot-1.12-R0.1-SNAPSHOT-b1376.jar"/>
+	<classpathentry kind="lib" path="/Users/jan/Documents/Libraries/Overflow/libs/spigot-1.14.4.jar"/>
+	<classpathentry kind="lib" path="/Users/jan/Documents/Libraries/Overflow/libs/spigot-api-1.12.1-R0.1-SNAPSHOT-shaded-b1405.jar"/>
+	<classpathentry kind="lib" path="/Users/jan/Documents/Libraries/Overflow/libs/discord/discord-webhooks-0.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/jan/Documents/Libraries/Overflow/libs/discord/JDA-3.7.1_385-withDependencies.jar"/>
+	<classpathentry kind="lib" path="/Users/jan/Documents/Libraries/Overflow/libs/discord/json-20140107.jar"/>
+	<classpathentry kind="lib" path="/Users/jan/Documents/Libraries/Overflow/libs/discord/okhttp-3.0.0-RC1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
